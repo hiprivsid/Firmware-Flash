@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    <method name="doImageClickLeft">
+      <applicationShutdown/>
+    </method>
+  
+  </class>
+<class name="select_company">
+    <method name="doImageClickLeft">
+      <applicationShutdown/>
+    </method>
+  <method name="doButtonAltAction">
+      <loadForm form="firm_upd" form-type="form" savePosition="" savePosition-type="" saveSize="" saveSize-type=""/>
+    </method>
+  <method name="doButtonAction">
+      <loadForm form="firm_upd" form-type="form" savePosition="" savePosition-type="" saveSize="" saveSize-type=""/>
+    </method>
+  </class>
+</root>
